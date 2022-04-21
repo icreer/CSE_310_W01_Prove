@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSE_310_W01_Prove/1.0.0": {
+        "runtime": {
+          "CSE_310_W01_Prove.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSE_310_W01_Prove/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

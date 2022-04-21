@@ -1,0 +1,15 @@
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\bin\Debug\net6.0\CSE_310_W01_Prove.exe
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\bin\Debug\net6.0\CSE_310_W01_Prove.deps.json
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\bin\Debug\net6.0\CSE_310_W01_Prove.runtimeconfig.json
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\bin\Debug\net6.0\CSE_310_W01_Prove.dll
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\bin\Debug\net6.0\ref\CSE_310_W01_Prove.dll
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\bin\Debug\net6.0\CSE_310_W01_Prove.pdb
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.csproj.AssemblyReference.cache
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.AssemblyInfoInputs.cache
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.AssemblyInfo.cs
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.dll
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\ref\CSE_310_W01_Prove.dll
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.pdb
+C:\Users\Isaac\OneDrive\Documents\BYU-I\CSE 310\CSE_310_W01_Prove\obj\Debug\net6.0\CSE_310_W01_Prove.genruntimeconfig.cache
