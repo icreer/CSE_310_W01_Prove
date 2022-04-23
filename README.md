@@ -11,3 +11,4 @@ This repository is two examples of the Hello World in C# and in Python.
 - C#
 - Git/Github
 ## Video Support
+[Video Explanation](https://youtu.be/H_0SbEceolA)
